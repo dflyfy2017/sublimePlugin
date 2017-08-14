@@ -1,0 +1,13 @@
+{
+	"aprosopo_dark_aqua": true,
+	"aprosopo_dark_dirty_red": true,
+	"color_scheme": "Packages/User/SublimeLinter/Darkside (SL).tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"show_encoding": true,
+	"theme": "Aprosopo Dark@st3.sublime-theme"
+}

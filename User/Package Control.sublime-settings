@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyncedSidebarBg",
+		"Terminal",
+		"Theme - Aprosopo",
+		"Vue Syntax Highlight"
+	]
+}
